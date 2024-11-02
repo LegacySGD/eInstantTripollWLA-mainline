@@ -1,0 +1,8 @@
+<ClientConfig>
+	<GameClient name="TripollWLA WLA" clientCode="mobile" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="Tripoll" enableFreeSpin="Y" clientversion="1.0" gameId="300-2095-0" />
+	<GameClient name="TripollWLA WLA" clientCode="tablet" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="Tripoll" enableFreeSpin="Y" clientversion="1.0" gameId="300-2095-0" />
+	<GameClient name="TripollWLA WLA" clientCode="desktop" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="Tripoll" enableFreeSpin="Y" clientversion="1.0" gameId="300-2095-0" />
+
+	<GameClient name="TripollWLA WLA" clientCode="tabletmini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="Tripoll" enableFreeSpin="Y" clientversion="1.0" gameId="300-2095-0" />
+	<GameClient name="TripollWLA WLA" clientCode="desktopmini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="Tripoll" enableFreeSpin="Y" clientversion="1.0" gameId="300-2095-0" />
+</ClientConfig>
